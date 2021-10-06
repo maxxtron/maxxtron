@@ -1,4 +1,4 @@
-<img width="800px" height="100px" src="https://media.proglib.io/wp-uploads/2019/07/clean-code.jpg" />
+<img width="800px" height="100px" src="https://p4.wallpaperbetter.com/wallpaper/107/856/884/black-white-programming-programming-language-python-programming-hd-wallpaper-preview.jpg" />
 
 ### Hi there 👋, I'm Mykyta
 
