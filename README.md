@@ -13,7 +13,7 @@
 *using classes components and bootstrap for style*
 
 
-2. <a href="https://todolist-onfunctional.web.app/">TodoList on react with functional components</a></br>
+2. <a href="https://todolist-onfunctional.web.app/">TodoList on react on hooks</a></br>
 *using functional components,hooks,bootstrap and react module css*
 
 
