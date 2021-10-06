@@ -1,4 +1,4 @@
-<img align="right" alt="Title photo" width="500px" src="https://media.proglib.io/wp-uploads/2019/07/clean-code.jpg" />
+<img align="right" alt="Title photo" width="450px" src="https://media.proglib.io/wp-uploads/2019/07/clean-code.jpg" />
 
 ### Hi there 👋, I'm Mykyta
 
