@@ -13,7 +13,6 @@
 [<img align="left" alt="MykytaProkopenko | Instagram" width="90px" src="https://cdn.cdnlogo.com/logos/f/3/facebook.svg" />][facebook]
 
 <br />
-<br />
 
 ### Languages and Tools:
 
