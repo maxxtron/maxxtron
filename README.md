@@ -34,4 +34,4 @@
 </details>
 
 [linkedin]: https://www.linkedin.com/in/mykyta-prokopenko-67b874195/
-[facebool]: https://www.facebook.com/profile.php?id=100009199810774
+[facebook]: https://www.facebook.com/profile.php?id=100009199810774
