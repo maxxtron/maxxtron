@@ -14,7 +14,7 @@
 
 
 2. <a href="https://todolist-onfunctional.web.app/">TodoList on react with functional components</a></br>
-*using functional components and bootstrap for style*
+*using functional components,hooks,bootstrap and react module css*
 
 
 ### Connect with me:
