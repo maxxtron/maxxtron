@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="MykytaProkopenko | LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
-[<img align="left" alt="MykytaProkopenko | Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/f/91/facebook-icon.svg" />][facebook]
+[<img align="left" alt="MykytaProkopenko | Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/f/83/facebook.svg" />][facebook]
 
 <br />
 
