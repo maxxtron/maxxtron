@@ -1,4 +1,4 @@
-<img align="right" alt="Title photo" width="400px" height="400px" src="https://img2.akspic.ru/previews/0/4/5/0/5/150540/150540-elektronnoe_ustrojstvo-kod-tehnologii-tekst-ishodnyj_kod-360x640.jpg" />
+<img align="right" alt="Title photo" width="400px" height="400px" src="https://media.proglib.io/wp-uploads/2017/03/open-position-frontend-developer-dribbble-2-preview_1x.png" />
 
 ### Hi there 👋, I'm Mykyta
 
