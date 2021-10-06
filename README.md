@@ -27,11 +27,11 @@
 <br />
 <br />
 
-<details>
-  <summary>Statistics:</summary>
+
+  <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxtron&langs_count=8&layout=compact" />
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maxxtron&show_icons=true" />
-</details>
+
 
 [linkedin]: https://www.linkedin.com/in/mykyta-prokopenko-67b874195/
 [facebook]: https://www.facebook.com/profile.php?id=100009199810774
