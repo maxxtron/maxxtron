@@ -7,6 +7,15 @@
 - 🥅 I am constantly learning new things
 - 🏀 I like to play basketball
 
+### My React projects on firebase:
+
+1. <a href="https://todolist-onclasses.web.app/">TodoList on react with classes components</a>
+  * using classes components and bootstrap for style
+
+2. <a href="https://todolist-onfunctional.web.app/">TodoList on react with functional components</a>
+  * using classes components and bootstrap for style
+
+
 ### Connect with me:
 
 [<img align="left" alt="MykytaProkopenko | LinkedIn" width="26px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
