@@ -10,10 +10,11 @@
 ### My React projects on firebase:
 
 1. <a href="https://todolist-onclasses.web.app/">TodoList on react with classes components</a>
-  * using classes components and bootstrap for style
+using classes components and bootstrap for style
+
 
 2. <a href="https://todolist-onfunctional.web.app/">TodoList on react with functional components</a>
-  * using classes components and bootstrap for style
+using classes components and bootstrap for style
 
 
 ### Connect with me:
