@@ -1,5 +1,3 @@
-<img align="right" alt="Title photo" width="400px" height="400px" src="https://media.proglib.io/wp-uploads/2017/03/open-position-frontend-developer-dribbble-2-preview_1x.png" />
-
 ### Hi there 👋, I'm Mykyta
 
 ## I'm a FrontEnd Developer
