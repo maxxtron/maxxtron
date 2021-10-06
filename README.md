@@ -1,5 +1,3 @@
-<img width="800px" height="200px" src="https://p4.wallpaperbetter.com/wallpaper/107/856/884/black-white-programming-programming-language-python-programming-hd-wallpaper-preview.jpg" />
-
 ### Hi there 👋, I'm Mykyta
 
 ## I'm a FrontEnd Developer
