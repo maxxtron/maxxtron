@@ -1,4 +1,4 @@
-<img align="right" alt="Title photo" width="400px" height="500px" src="https://img2.akspic.ru/previews/0/4/5/0/5/150540/150540-elektronnoe_ustrojstvo-kod-tehnologii-tekst-ishodnyj_kod-360x640.jpg" />
+<img align="right" alt="Title photo" width="400px" height="450px" src="https://img2.akspic.ru/previews/0/4/5/0/5/150540/150540-elektronnoe_ustrojstvo-kod-tehnologii-tekst-ishodnyj_kod-360x640.jpg" />
 
 ### Hi there 👋, I'm Mykyta
 
