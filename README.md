@@ -11,8 +11,7 @@
 
 [<img align="left" alt="MykytaProkopenko | LinkedIn" width="26px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="MykytaProkopenko | Instagram" width="26px" src="https://cdn.cdnlogo.com/logos/f/83/facebook.svg" />][facebook]
-[<img align="left" alt="MykytaProkopenko | Telegram" width="26px" src="https://cdn.cdnlogo.com/logos/f/83/facebook.svg" />][telegram]
-
+[<img align="left" alt="MykytaProkopenko | Telegram" width="26px" src="https://cdn.cdnlogo.com/logos/t/84/telegram.svg" />][telegram]
 
 <br />
 
@@ -42,4 +41,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 [linkedin]: https://www.linkedin.com/in/mykyta-prokopenko-67b874195
 [facebook]: https://www.facebook.com/profile.php?id=100009199810774
-[telegram]: https://t-do.ru/maxxtron
+[telegram]: https://t.me/maxxtron
