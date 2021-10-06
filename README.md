@@ -2,10 +2,10 @@
 
 ## I'm a FrontEnd Developer
 
-- 💪 I like to write code
-- 🎉 I like to read books
+- 💻 I like to write code
+- 📚 I like to read books
 - 🥅 I am constantly learning new things
-- 🤹🏽 I like to play basketball
+- 🏀 I like to play basketball
 
 ### Connect with me:
 
