@@ -1,3 +1,5 @@
+<img align="center" alt="Title photo" width="200px" src="https://media.proglib.io/wp-uploads/2019/07/clean-code.jpg" />
+
 ### Hi there 👋, I'm Mykyta
 
 ## I'm a FrontEnd Developer
