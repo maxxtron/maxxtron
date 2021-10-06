@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="MykytaProkopenko | LinkedIn" width="26px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
+[<img align="left" target="blank" alt="MykytaProkopenko | LinkedIn" width="26px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="MykytaProkopenko | Instagram" width="26px" src="https://cdn.cdnlogo.com/logos/f/83/facebook.svg" />][facebook]
 [<img align="left" alt="MykytaProkopenko | Telegram" width="26px" src="https://cdn.cdnlogo.com/logos/t/84/telegram.svg" />][telegram]
 
