@@ -2,8 +2,8 @@
 
 ## I'm a FrontEnd Developer
 
-- 💻 I like to write code
-- 📚 I like to read books
+- 💻 I like to write code and read books
+- 📚 I like to fish and pick mushrooms
 - 🥅 I am constantly learning new things
 - 🏀 I like to play basketball
 
