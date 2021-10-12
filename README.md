@@ -36,7 +36,7 @@
 <img align="left" alt="Visual Studio Code" width="32px"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Visual Studio Code" width="32px"
-src="https://e7.pngegg.com/pngimages/342/131/png-clipart-penguin-tux-design-logo-linux-penguin-animals-logo.png" />
+src="https://e7.pngegg.com/pngimages/106/664/png-clipart-linux-linux.png" />
 
 
 <br />
