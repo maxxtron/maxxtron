@@ -41,10 +41,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 <details>
   <summary>:zap: Sertificates:</summary>
-  <br /> 
-  Javascript 2.0 Itgid.info
+  Prog.kiev.ua (HTML,CSS,Javascript
   <br />
-   <img align="left" alt="Javascript 2.0" src="https://files.fm/thumb_show.php?i=kjt85mwqz" />
+   <img align="left" alt="Javascript 2.0" src="https://files.fm/thumb_show.php?i=zrrue2p2x" />
+  <br /> 
+  Javascript 2.0 Itgid.info (Javascript)
+  <br />
+   <img align="Right" alt="Javascript 2.0" src="https://files.fm/thumb_show.php?i=kjt85mwqz" />
 </details>
 <br />
 
