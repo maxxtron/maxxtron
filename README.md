@@ -53,6 +53,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxxtron&langs_count=8&layout=compact" />
   <br />
 <br />
+  </br />
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maxxtron&show_icons=true" />
 </details>
 
