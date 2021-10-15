@@ -48,7 +48,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <hr /> 
   Javascript 2.0 Itgid.info (Javascript)
   <br />
-   <img align="Right" alt="Javascript 2.0" src="https://files.fm/thumb_show.php?i=kjt85mwqz" />
+   <img align="left" alt="Javascript 2.0" src="https://files.fm/thumb_show.php?i=kjt85mwqz" />
 </details>
 <br />
 
