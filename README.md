@@ -43,7 +43,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <summary>:zap: Sertificates:</summary>
   Prog.kiev.ua (HTML,CSS,Javascript)
   <br />
-   <img align="left" alt="Prog.kiev.ua" src="https://files.fm/thumb_show.php?i=zrrue2p2x" />
+   <img align="left" alt="Prog.kiev.ua" width="32px" src="https://files.fm/thumb_show.php?i=zrrue2p2x" />
   <br /> 
   <br />
   Javascript 2.0 Itgid.info (Javascript)
