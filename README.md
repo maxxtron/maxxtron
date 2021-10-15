@@ -40,7 +40,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ### Sertificates: 
 <details>
-  <summary>:zap: Prog.kiev.ua (HTML,CSS,Javascript)</summary>
+  <summary>Prog.kiev.ua (HTML,CSS,Javascript)</summary>
    <img align="left" alt="Prog.kiev.ua" width="600px" src="https://files.fm/thumb_show.php?i=zrrue2p2x" />
   </details>
   
