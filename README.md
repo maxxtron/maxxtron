@@ -39,17 +39,15 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br />
 <br />
-<details>
   <summary>:zap: Sertificates:</summary>
   Prog.kiev.ua (HTML,CSS,Javascript)
   <br />
-   <img align="left" alt="Prog.kiev.ua" width="400px" src="https://files.fm/thumb_show.php?i=zrrue2p2x" />
+   <img align="left" alt="Prog.kiev.ua" width="600px" src="https://files.fm/thumb_show.php?i=zrrue2p2x" />
   <br /> 
   <br />
   Javascript 2.0 Itgid.info (Javascript)
   <br />
-   <img align="left" alt="Javascript 2.0" width="400px" src="https://files.fm/thumb_show.php?i=kjt85mwqz" />
-</details>
+   <img align="left" alt="Javascript 2.0" width="600px" src="https://files.fm/thumb_show.php?i=kjt85mwqz" />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/mykyta-prokopenko-67b874195
