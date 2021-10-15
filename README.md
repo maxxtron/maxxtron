@@ -47,7 +47,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
    <img align="left" alt="Javascript 2.0" src="https://files.fm/thumb_show.php?i=kjt85mwqz" />
 </details>
 <br />
-<br />
 
 <details>
   <summary>:zap: Statistics:</summary>
