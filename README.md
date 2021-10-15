@@ -2,6 +2,7 @@
 
 ## I'm a FrontEnd Developer
 
+
 - 💻 I like to write code and read books
 - 📚 I like to fish and pick mushrooms
 - 🥅 I am constantly learning new things
