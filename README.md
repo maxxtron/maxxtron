@@ -27,14 +27,13 @@ Stack: ReactJS / SASS
 
 ### Connect with me:
 
-[<img align="left" alt="MykytaProkopenko | LinkedIn" width="32px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
-[<img align="left" alt="MykytaProkopenko | Instagram" width="32px" src="https://cdn.cdnlogo.com/logos/f/83/facebook.svg" />][facebook]
-[<img align="left" alt="MykytaProkopenko | Telegram" width="32px" src="https://cdn.cdnlogo.com/logos/t/84/telegram.svg" />][telegram]
+[<img align="left" alt="MykytaProkopenko | LinkedIn" width="52px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="MykytaProkopenko | Instagram" width="52px" src="https://cdn.cdnlogo.com/logos/f/83/facebook.svg" />][facebook]
+[<img align="left" alt="MykytaProkopenko | Telegram" width="52px" src="https://cdn.cdnlogo.com/logos/t/84/telegram.svg" />][telegram]
 
 <br />
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,graphql,tailwind,prisma,postman,github")](https://skillicons.dev)
 
 <br />
