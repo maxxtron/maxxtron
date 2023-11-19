@@ -34,7 +34,7 @@ Stack: ReactJS / SASS
 <br />
 
 ### Languages and Tools:
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <img align="left" alt="React" width="500px" height="256" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,graphql,tailwind,prisma,postman,github" />
 
 <br />
