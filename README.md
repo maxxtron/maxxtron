@@ -37,9 +37,6 @@ Stack: ReactJS / SASS
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,graphql,tailwind,prisma,postman,github")](https://skillicons.dev)
 
-<br />
-<br />
-
 ### Sertificates: 
 <details>
   <summary>Prog.kiev.ua (HTML,CSS,Javascript) and Javascript 2.0 Itgid.info</summary>
