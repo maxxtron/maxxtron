@@ -38,6 +38,7 @@ Stack: ReactJS / SASS
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,graphql,tailwind,prisma,postman,github")](https://skillicons.dev)
 
 <br />
+<br />
 
 ### Sertificates: 
 <details>
@@ -46,7 +47,7 @@ Stack: ReactJS / SASS
   
   <br /> 
 
-   <img align="кшпре" alt="Javascript 2.0" width="700px" src="https://files.fm/thumb_show.php?i=kjt85mwqz" />
+<img align="sertificate" alt="Javascript 2.0" width="700px" src="https://files.fm/thumb_show.php?i=kjt85mwqz" />
  </details>
 
 [linkedin]: https://www.linkedin.com/in/mykyta-prokopenko-67b874195
