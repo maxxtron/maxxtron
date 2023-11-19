@@ -32,6 +32,7 @@ Stack: ReactJS / SASS
 [<img align="left" alt="MykytaProkopenko | Telegram" width="48px" src="https://cdn.cdnlogo.com/logos/t/84/telegram.svg" />][telegram]
 
 <br />
+<br />
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,graphql,tailwind,prisma,postman,github")](https://skillicons.dev)
