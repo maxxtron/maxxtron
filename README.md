@@ -12,7 +12,7 @@
 
 ### My React projects on firebase and vercel:
 
-1. <a href="https://github-search-user-repo.web.app/">Search and filter games</a></br>
+1. <a href="https://github-search-user-repo.web.app/">Search for custom repositories by API</a></br>
 Stack: ReactJS / Typescript / Redux toolkit / Tailwind
 
 2. <a href="https://game-search-two.vercel.app/">Search and filter games</a></br>
