@@ -32,7 +32,7 @@ Stack: ReactJS / SASS
 [<img align="left" alt="MykytaProkopenko | Telegram" width="26px" src="https://cdn.cdnlogo.com/logos/t/84/telegram.svg" />][telegram]
 
 <br />
-<img align="left" alt="React" width="150px" height="150" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,graphql,tailwind,prisma,postman,github" />
+<img align="left" alt="React" width="256px" height="256" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,graphql,tailwind,prisma,postman,github" />
 
 ### Languages and Tools:
 
