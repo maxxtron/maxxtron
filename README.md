@@ -32,22 +32,10 @@ Stack: ReactJS / SASS
 [<img align="left" alt="MykytaProkopenko | Telegram" width="32px" src="https://cdn.cdnlogo.com/logos/t/84/telegram.svg" />][telegram]
 
 <br />
-<img align="left" alt="React" width="500px" height="256" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,graphql,tailwind,prisma,postman,github" />
 
 ### Languages and Tools:
 
-<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" width="32" height="32" src="https://files.fm/f/6kvqhbmv4w" alt="nextjs"/>
-<img align="left" width="32px" height="32" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/>
-<img align="left" width="32" height="32" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-shadow-tal-revivo.png" alt="external-redux-an-open-source-javascript-library-for-managing-application-state-logo-shadow-tal-revivo"/>
-<img align="left" width="32" height="32" src="https://img.stackshare.io/service/25599/default_c6db7125f2c663e452ba211df91b2ced3bb7f0ff.png" alt="tanstack" />
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio Code" width="32px"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" alt="React" width="500px" height="256" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,graphql,tailwind,prisma,postman,github" />
 
 <br />
 
