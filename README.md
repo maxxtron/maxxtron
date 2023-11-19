@@ -10,15 +10,18 @@
 - 🥅 I am constantly learning new things
 - 🏀 I like to play basketball
 
-### My React projects on firebase:
+### My React projects on firebase and vercel:
 
-1. <a href="https://game-search-two.vercel.app/">TSearch and filter games</a></br>
+1. <a href="https://github-search-user-repo.web.app/">Search and filter games</a></br>
+Stack: ReactJS / Typescript / Redux toolkit / Tailwind
+
+2. <a href="https://game-search-two.vercel.app/">Search and filter games</a></br>
 Stack: ReactJS / SASS
 
-2. <a href="https://todolist-onclasses.web.app/">TodoList on react with classes components</a></br>
+3. <a href="https://todolist-onclasses.web.app/">TodoList on react with classes components</a></br>
 *using classes components and bootstrap for style*
 
-3. <a href="https://todolist-onfunctional.web.app/">TodoList on react on hooks</a></br>
+4. <a href="https://todolist-onfunctional.web.app/">TodoList on react on hooks</a></br>
 *using functional components,hooks,bootstrap and react module css*
 
 
