@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mykyta
 
-## I'm a FrontEnd Developer
+## I'm a React Frontend Developer
 
 ## My website portfolio: <a href="https://maxxtron.vercel.app/">Link</a></br>
 
