@@ -10,8 +10,8 @@
 - 🥅 I am constantly learning new things
 - 🏀 I like to play basketball
 
-### My Portfoliowebsite:
-<a href="https://github-search-user-repo.web.app/">Click ME</a></br>
+### My Portfolio Website:
+<a href="https://github-search-user-repo.web.app/">Go To Portfolio</a></br>
 
 ### Connect with me:
 
