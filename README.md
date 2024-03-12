@@ -12,18 +12,7 @@
 
 ### My React projects on firebase and vercel:
 
-1. <a href="https://github-search-user-repo.web.app/">Search for custom repositories by API</a></br>
-Stack: ReactJS / Typescript / Redux toolkit / Tailwind
-
-2. <a href="https://game-search-two.vercel.app/">Search and filter games</a></br>
-Stack: ReactJS / SASS
-
-3. <a href="https://todolist-onclasses.web.app/">TodoList on react with classes components</a></br>
-*using classes components and bootstrap for style*
-
-4. <a href="https://todolist-onfunctional.web.app/">TodoList on react on hooks</a></br>
-*using functional components,hooks,bootstrap and react module css*
-
+1. <a href="[https://github-search-user-repo.web.app/](https://maxxtron.vercel.app/)">My portfolio website</a></br>
 
 ### Connect with me:
 
