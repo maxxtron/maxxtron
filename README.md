@@ -12,7 +12,7 @@
 
 ### My React projects on firebase and vercel:
 
-1. <a href="[https://github-search-user-repo.web.app/](https://maxxtron.vercel.app/)">My portfolio website</a></br>
+1. <a href="https://github-search-user-repo.web.app/">My portfolio website</a></br>
 
 ### Connect with me:
 
