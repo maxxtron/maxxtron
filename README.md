@@ -8,10 +8,7 @@
 - 💻 I like to write code and read books
 - 📚 I like to fish and pick mushrooms
 - 🥅 I am constantly learning new things
-- 🏀 I like to play basketball
-
-### My Portfolio Website:
-<a href="https://github-search-user-repo.web.app/">Go To Portfolio</a></br>
+- 🏀 I like to play basketball and chess
 
 ### Connect with me:
 
